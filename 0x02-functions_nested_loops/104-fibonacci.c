@@ -31,7 +31,7 @@ int main(void)
 		{
 			l1 += 1;
 			l2 %= 10000000000;
-		{
+		}
 		printf("%lu%lu", l1, l2);
 		if (i != 98)
 			printf(", ");
