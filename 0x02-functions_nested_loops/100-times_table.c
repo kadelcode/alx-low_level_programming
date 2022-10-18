@@ -29,7 +29,7 @@ void print_times_table(int n)
 					_putchar((m / 100) + '0');
 					_putchar((m / 100) % 10 + '0');
 				}
-				if (m <= 99 && m >= 10)
+				else if(m <= 99 && m >= 10)
 					_putchar((m / 10) + '0');
 				_putchar((m % 10) + '0');
 			}
