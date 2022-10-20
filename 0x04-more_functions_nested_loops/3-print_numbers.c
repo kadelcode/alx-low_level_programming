@@ -4,9 +4,9 @@
 */
 void print_numbers(void)
 {
-	char c;
+	char c = 48;
 
-	while ((c >= 48) && (c <= 57))
+	while ((c <= 57))
 	{
 		_putchar(c);
 	}
