@@ -23,3 +23,11 @@
 
 ### [7-print_tebahpla.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/7-print_tebahpla.c)
   - A program that prints the lowercase alphabet in reverse, followed by a new line.
+  
+### [8-print_base16.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/8-print_base16.c)
+  - A program that prints all the numbers of base 16 in lowercase(using putchar function), followed by a new line.
+
+### [9-print_comb.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/9-print_comb.c)
+  -  A program that prints all possible combinations of single-digit numbers
+
+
