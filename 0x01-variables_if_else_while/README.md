@@ -16,3 +16,10 @@
 
 ### [5-print_numbers.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/5-print_numbers.c)
   -  A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+### [6-print_numberz.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/6-print_numberz.c)
+  - A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+  - Without using variable type of char and only using the putchar function
+
+### [7-print_tebahpla.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/7-print_tebahpla.c)
+  - A program that prints the lowercase alphabet in reverse, followed by a new line.
