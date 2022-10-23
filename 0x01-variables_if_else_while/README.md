@@ -28,6 +28,17 @@
   - A program that prints all the numbers of base 16 in lowercase(using putchar function), followed by a new line.
 
 ### [9-print_comb.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/9-print_comb.c)
-  -  A program that prints all possible combinations of single-digit numbers
+  - A program that prints all possible combinations of single-digit numbers
+
+### [100-print_comb3.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x01-variables_if_else_while/100-print_comb3.c)
+  - A program that prints all possible different combinations of two digits.
+  - Numbers must be separated by ,, followed by a space
+  - The two digits must be different
+  - 01 and 10 are considered the same combination of the two digits 0 and 1
+  - Print only the smallest combination of two digits
+  - Numbers should be printed in ascending order, with two digits
+
+### []()
+
 
 
