@@ -5,3 +5,6 @@
 
 ### [1-swap.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/1-swap.c)
   - swap the values of two variables
+
+### [2-strlen.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/2-strlen.c)
+  - finds the length of a string
