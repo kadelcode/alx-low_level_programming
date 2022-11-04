@@ -7,11 +7,11 @@
 * Return: if not 1, return error
 */
 
-int main(argc, **argv)
+int main(int argc, char **argv)
 {
 	int i, coins, amount;
 
-	int num[5] = [25, 10, 5, 2, 1];
+	int num[5] = {25, 10, 5, 2, 1};
 
 	coins = 0;
 
