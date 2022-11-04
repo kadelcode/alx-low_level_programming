@@ -5,7 +5,7 @@
 * @argv: an array of size arg c
 * Return: Always 0
 */
-int main(int argc, char **argv)
+int main(int argc, ___attribute__((unsed)) char **argv)
 {
 	printf("%d\n", argc - 1);
 	return (0);
