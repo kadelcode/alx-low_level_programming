@@ -11,7 +11,7 @@ int main(argc, **argv)
 {
 	int i, coins, amount;
 
-	int num[5] = {25, 10, 5, 2, 1};
+	int num[5] = [25, 10, 5, 2, 1];
 
 	coins = 0;
 
