@@ -8,3 +8,6 @@
 
 ### [2-strlen.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/2-strlen.c)
   - finds the length of a string
+  
+### [3-puts.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/3-puts.c)
+  - a function that prints a string, followed by a new line, to stdout
