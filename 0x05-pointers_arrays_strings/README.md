@@ -11,3 +11,6 @@
   
 ### [3-puts.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/3-puts.c)
   - a function that prints a string, followed by a new line, to stdout
+
+### [4-print_rev.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/4-print_rev.c)
+  - a function that prints a string, in reverse, followed by a new line
