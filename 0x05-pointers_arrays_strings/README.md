@@ -23,3 +23,6 @@
 
 ### [7-puts_half.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/7-puts_half.c)
   - a function that prints half of a string, followed by a new line
+
+### [8-print_array.c](https://github.com/kadelcode/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/8-print_array.c)
+  - a function that prints n elements of an array of integers, followed by a new line.
