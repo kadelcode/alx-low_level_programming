@@ -10,8 +10,8 @@
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
 	d = &my_dog;
-	(*d).name = "Poppy";
-	(*d).age = 3.5;
-	d->owner = "Bob";
+	(*d).name = name;
+	(*d).age = age;
+	d->owner = owner;
 
 }
