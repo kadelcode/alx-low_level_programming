@@ -8,6 +8,6 @@
 
 - [0x03-debugging](): *C Debugging*
 
-- [0x04-more_functions_nested_loops(): *More programs on C functions and nested loops*
+- [0x04-more_functions_nested_loops](): *More programs on C functions and nested loops*
 
 - [0x05-pointers_arrays_strings](): *Programs on pointers, arrays and strings*
